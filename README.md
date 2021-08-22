@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karahj
 - 👀 I’m interested in ...learning programming 
-- 🌱 I’m currently learning ...c50
+- 🌱 I’m currently learning ...cs50
 - 💞️ I’m looking to collaborate on ...anything 
 - 📫 How to reach me ...IG karah2591
 
